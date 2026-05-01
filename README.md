@@ -1,3 +1,3 @@
 # student-note
 This is my Git Repos.
-Author - Prasanth
+Author - Prasanth Gautham
